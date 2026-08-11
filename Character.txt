@@ -3,3 +3,4 @@ Wives : Visheya Targaryen, Rhaenys Targaryen
 Sons : Aenys Targaryen, Maegor Targaryen
 House : Targaryen
 status : death
+birth of date: Dragonstone 27 BC
