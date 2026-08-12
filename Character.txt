@@ -3,3 +3,5 @@ Wives : Visheya Targaryen, Rhaenys Targaryen
 Sons : Aenys Targaryen, Maegor Targaryen
 House : Targaryen
 status : Alive
+
+Dragons: Balerion The Dread
