@@ -2,5 +2,7 @@ Name : Aegon Targaryen I
 Wives : Visheya Targaryen, Rhaenys Targaryen
 Sons : Aenys Targaryen, Maegor Targaryen
 House : Targaryen
-status : Alive
+Status : Alive
+Birth of Date : Dragonstone, 27 BC 
 Dragons: Balerion The Dread, Vhagar, Meraxes
+Date of Death : Dragonstone, 37 AC
